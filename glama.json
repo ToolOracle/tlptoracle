@@ -1,0 +1,1 @@
+{"name": "TLPTOracle", "description": "DORA Art. 24-27 threat-led penetration testing \u2014 10 MCP tools for TIBER-EU scenarios", "category": "compliance", "tags": ["dora", "tlpt", "tiber", "pentest"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/tlpt/mcp/"}
