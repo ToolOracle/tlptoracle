@@ -1,0 +1,5 @@
+name: TLPTOracle
+description: DORA Art. 24-27 TLPT/TIBER-EU testing — 10 tools
+endpoint: https://tooloracle.io/tlpt/mcp/
+transport: streamable-http
+license: MIT
